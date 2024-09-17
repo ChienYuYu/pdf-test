@@ -61,7 +61,7 @@ h1{
 }
 
 .export_container{
-  width: 770px;
+  width: 750px;
   /* !!!寬度會影響到PDF輸出 */
   margin: 0 auto;
 }
